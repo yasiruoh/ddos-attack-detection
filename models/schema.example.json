@@ -1,0 +1,9 @@
+{
+  "features": [
+    "replace_with_exact_feature_names_in_exact_order"
+  ],
+  "preprocessing": "embedded_in_onnx",
+  "probability_output": "replace_with_actual_output_name",
+  "score_semantics": "attack_probability",
+  "attack_class_index": 1
+}
